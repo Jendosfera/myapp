@@ -1,4 +1,4 @@
-﻿import json, os
+import json, os
 from kivy.lang import Builder
 from kivy.properties import StringProperty
 from kivy.clock import Clock

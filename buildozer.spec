@@ -1,4 +1,4 @@
-﻿[app]
+[app]
 title = Пожарная профилактика
 package.name = firereader
 package.domain = org.fire
